@@ -1,0 +1,17 @@
+.overlay {
+  height: 500px;
+  background-image: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg);
+  color: white;
+
+}
+
+.ui.image.item.right.floated {
+  margin-top: 150px;
+  margin-right:250px;
+}
+
+.rightColumn.column {
+  margin-top: 210px;
+  font-size:20px;
+
+}
